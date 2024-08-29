@@ -9,10 +9,10 @@ O projeto foi realizado seguindo os seguintes passos:
 4. Conclusões sobre o projeto: Descrição de todas as informações retiradas do estudo com pontos relevantes sobre o tema.
 
 # Resultados Principais
-- A acurácia do modelo foi consistente em diferentes execuções, alcançando valores próximos a 90%.
+- A acurácia do modelo foi consistente em diferentes execuções, **alcançando valores próximos a 90%**.
 - As métricas de desempenho, como precisão e recall, reforçam a eficácia do modelo, especialmente no contexto de detecção de notícias falsas.
-- O modelo é altamente preciso ao identificar notícias falsas, resultando em um número considerável de Verdadeiros Positivos (587).
-- A quantidade de erros de classificação, tanto para Falsos Positivos (50) quanto para Falsos Negativos (42), é baixa, indicando que o modelo possui uma boa capacidade de generalização e não está enviesado para uma classe específica.
+- O modelo é altamente preciso ao identificar notícias falsas, resultando em um número considerável de Verdadeiros Positivos.
+- A quantidade de erros de classificação, tanto para Falsos Positivos quanto para Falsos Negativos, é baixa, indicando que o modelo possui uma boa capacidade de generalização e não está enviesado para uma classe específica.
 
 # Estrutura dos arquivos
 - Fake news detection.ipynb - Arquivo principal, em que se encontra o projeto
